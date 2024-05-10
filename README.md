@@ -4,7 +4,7 @@ A ferramenta opera configurando um ponto de acesso falso que parece uma rede leg
 
 -> Configuração de Rede Wi-Fi Falsa:
 
- *Utilizamos o hostapd, um software amplamente usado para configurar pontos de acesso sem fio no Linux. O hostapd permite configurar a placa de rede Wi-Fi para agir como um ponto de acesso, especificando o SSID (nome da rede), a criptografia utilizada, e outras configurações relevantes.
+ *Fiz o uso do hostapd, um software amplamente usado para configurar pontos de acesso sem fio no Linux. O hostapd permite configurar a placa de rede Wi-Fi para agir como um ponto de acesso, especificando o SSID (nome da rede), a criptografia utilizada, e outras configurações relevantes.
  
 -> Monitoramento de Atividades:
 
