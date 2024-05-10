@@ -1,0 +1,15 @@
+/home/pbrito/dev/WifiHoneypot/bin/Debug/net6.0/WifiHoneypot
+/home/pbrito/dev/WifiHoneypot/bin/Debug/net6.0/WifiHoneypot.deps.json
+/home/pbrito/dev/WifiHoneypot/bin/Debug/net6.0/WifiHoneypot.runtimeconfig.json
+/home/pbrito/dev/WifiHoneypot/bin/Debug/net6.0/WifiHoneypot.dll
+/home/pbrito/dev/WifiHoneypot/bin/Debug/net6.0/WifiHoneypot.pdb
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.csproj.AssemblyReference.cache
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.AssemblyInfoInputs.cache
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.AssemblyInfo.cs
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.csproj.CoreCompileInputs.cache
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.dll
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/refint/WifiHoneypot.dll
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.pdb
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/WifiHoneypot.genruntimeconfig.cache
+/home/pbrito/dev/WifiHoneypot/obj/Debug/net6.0/ref/WifiHoneypot.dll
